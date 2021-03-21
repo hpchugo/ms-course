@@ -1,0 +1,5 @@
+package com.devsuperior.hrworker.repositories;
+
+public interface WorkerRepository {
+
+}
