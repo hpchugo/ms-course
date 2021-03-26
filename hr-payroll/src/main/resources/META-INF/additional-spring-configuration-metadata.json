@@ -38,5 +38,20 @@
     "name": "hr-worker.ribbon.listOfServers",
     "type": "java.lang.String",
     "description": "A description for 'hr-worker.ribbon.listOfServers'"
+  },
+  {
+    "name": "hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds",
+    "type": "java.lang.Integer",
+    "description": "A description for 'hystrix.command.default.execution.isolation.thread.timeoutInMilliseconds'"
+  },
+  {
+    "name": "ribbon.ConnectionTimeout",
+    "type": "java.lang.Integer",
+    "description": "A description for 'ribbon.ConnectionTimeout'"
+  },
+  {
+    "name": "ribbon.ReadTimeout",
+    "type": "java.lang.Integer",
+    "description": "A description for 'ribbon.ReadTimeout'"
   }
 ]}
