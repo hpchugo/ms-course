@@ -32,4 +32,6 @@
     <fullyQualifiedTypeName name="com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand"/>
     <fullyQualifiedTypeName name="org.springframework.cloud.netflix.zuul.EnableZuulProxy"/>
     <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.context.config.annotation.RefreshScope"/>
 </qualifiedTypeNameHistroy>
