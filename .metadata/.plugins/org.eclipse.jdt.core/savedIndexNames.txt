@@ -45,7 +45,6 @@ INDEX VERSION 1.131+D:\workspace_spring_cloud\.metadata\.plugins\org.eclipse.jdt
 2431598549.index
 2947602173.index
 3730988565.index
-3380018556.index
 449016252.index
 4194762308.index
 1033170044.index
