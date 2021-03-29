@@ -1,4 +1,4 @@
-package com.devsuperior.hrworker.resources;
+]package com.devsuperior.hrworker.resources;
 
 import java.util.List;
 
@@ -23,9 +23,6 @@ public class WorkerResources {
 
 	private static Logger logger = org.slf4j.LoggerFactory.getLogger(WorkerResources.class);
 	
-	@Value("${test.config}")
-	private String testConfig;
-	
 	@Autowired 
 	private Environment env;
 	
@@ -48,7 +45,6 @@ public class WorkerResources {
 	
 	@GetMapping(value = "configs")
 	public ResponseEntity<Void> getConfigs(){
-		logger.info("CONFIG = "+testConfig);
 		return ResponseEntity.noContent().build();
 	}
 }
