@@ -1,4 +1,4 @@
-]package com.devsuperior.hrworker.resources;
+package com.devsuperior.hrworker.resources;
 
 import java.util.List;
 
