@@ -1,4 +1,4 @@
-applyBackground=true
+applyBackground=false
 approved.defs.file.last.changed.time=1614897334000
 codetogether.announce.displayed=true
 configurationInstallLocation=/D\:/SpringToolsSuite_4.6.1/
@@ -6,8 +6,8 @@ eclipse.preferences.version=1
 iconcolormode=primary
 iconreplacement=false
 includeThemingInOomph=false
-last.download.attempt.time=1617126732721
-lastConfiguration=1617218883671
+last.download.attempt.time=1617218947032
+lastConfiguration=1617280203861
 newinstall=false
 overridePEFontSize=false
 showWelcomeDialog=false
